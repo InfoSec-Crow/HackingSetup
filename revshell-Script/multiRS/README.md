@@ -6,4 +6,4 @@
 * php
 * ruby
 * lua
-* awk``
+* awk
