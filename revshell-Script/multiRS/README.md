@@ -10,7 +10,7 @@ The appropriate command is then executed
 4. upload mRS.sh to victim machine and execute
 5. access!
 
-### Reverse Shell Types:
+## Reverse Shell Types:
 * python 
 * perl
 * nc
