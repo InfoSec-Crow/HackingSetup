@@ -8,7 +8,7 @@ The appropriate command is then executed
 2. run ./change.sh
 3. tipe host Ip and port
 4. upload mRS.sh to victim machine and execute
-5. acces!
+5. access!
 
 ### Reverse Shell Types:
 * python 
