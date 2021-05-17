@@ -19,4 +19,4 @@ The appropriate command is then executed
 * ruby
 * lua
 * awk
-(more comming soon)
+(more coming soon)
