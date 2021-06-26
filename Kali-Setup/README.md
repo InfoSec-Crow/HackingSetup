@@ -1,5 +1,5 @@
 # [Kali-Linux](https://www.kali.org/)
-Latest Kali **Version 2021.1**
+Latest Kali **Version 2021.1** Update comming soon v2021.2
 
 ## Kali Setup:
   - GNOME desktop
