@@ -1,4 +1,4 @@
-# Mrs:3 -  Multi Reverse Shell Script 
+# MistResS -  Multi Reverse Shell Script 
 This script has the reverse shell commands listed below. 
 It checks whether a program is present on the system or not. 
 The appropriate command is then executed 
