@@ -1,4 +1,4 @@
-# MRS.P - Multi reverse shell Payloads
+# MRS.P - Many Reverse Shell Payloads
 
 ```
                                             888b     d888 8888888  .d8888b.      8888888b.  
