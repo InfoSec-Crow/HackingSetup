@@ -14,4 +14,4 @@ After the script is done reboot and select i3 (top right corner) on the login sc
 
 ## Credits
 
-Kali i3 by xct ( https://github.com/xct/kali-clean/blob/main/README.md ) 
+Kali i3 by xct ( https://github.com/xct/kali-clean ) 
