@@ -1,2 +1,0 @@
-
-#run ./change.sh first
